@@ -127,13 +127,13 @@
           <mxGeometry x="200" y="4275" width="163" height="48" as="geometry" />
         </mxCell>
         <mxCell id="l4IxO3nRKrrGGcim5dWL-78" value="3D卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="4300" width="111" height="48" as="geometry" />
+          <mxGeometry x="226" y="4353" width="111" height="48" as="geometry" />
         </mxCell>
         <mxCell id="l4IxO3nRKrrGGcim5dWL-79" value="3D批规范化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="574" y="4275" width="143" height="48" as="geometry" />
+          <mxGeometry x="210" y="4430" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="l4IxO3nRKrrGGcim5dWL-80" value="ReLU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="767" y="4275" width="96" height="48" as="geometry" />
+          <mxGeometry x="233.5" y="4510" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="l4IxO3nRKrrGGcim5dWL-81" value="3D卷积" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1092" y="4275" width="111" height="48" as="geometry" />
